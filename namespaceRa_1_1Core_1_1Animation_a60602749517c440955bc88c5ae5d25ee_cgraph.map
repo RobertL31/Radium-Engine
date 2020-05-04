@@ -1,0 +1,6 @@
+<map id="Ra::Core::Animation::getPose" name="Ra::Core::Animation::getPose">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Animation.html#a7613da42bbde2caf7e0b3ff501a09cfe" title="Ra::Core::Animation\l::getTime" alt="" coords="205,5,357,47"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Geometry.html#aa04e6052d8911b1df1bd881474debb45" title="Ra::Core::Geometry::t" alt="" coords="605,101,768,127"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Animation.html#aa5e2e11d79318fd2777aaa259f8210db" title="Ra::Core::Animation\l::interpolatePoses" alt="" coords="205,123,357,164"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Animation.html#a6951de94ba127cd79685e704d658808b" title="Ra::Core::Animation\l::interpolate" alt="" coords="405,123,557,164"/>
+</map>

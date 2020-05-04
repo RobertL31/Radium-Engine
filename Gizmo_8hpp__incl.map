@@ -1,0 +1,19 @@
+<map id="src/GuiBase/Viewer/Gizmo/Gizmo.hpp" name="src/GuiBase/Viewer/Gizmo/Gizmo.hpp">
+<area shape="rect" id="node3" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="623,370,745,397"/>
+<area shape="rect" id="node14" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="321,281,471,307"/>
+<area shape="rect" id="node20" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="441,102,596,129"/>
+<area shape="rect" id="node23" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="868,281,1060,307"/>
+<area shape="rect" id="node29" href="$RenderParameters_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.hpp" alt="" coords="1248,95,1491,136"/>
+<area shape="rect" id="node4" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="869,452,1000,479"/>
+<area shape="rect" id="node5" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1095,527,1255,553"/>
+<area shape="rect" id="node15" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="148,370,300,397"/>
+<area shape="rect" id="node18" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="203,452,347,479"/>
+<area shape="rect" id="node22" href="$Index_8inl.html" title="Core/Utils/Index.inl" alt="" coords="319,191,465,218"/>
+<area shape="rect" id="node24" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1335,452,1494,479"/>
+<area shape="rect" id="node25" href="$Singleton_8hpp.html" title="Core/Utils/Singleton.hpp" alt="" coords="844,370,1023,397"/>
+<area shape="rect" id="node31" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="1320,191,1584,218"/>
+<area shape="rect" id="node36" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="1972,370,2113,397"/>
+<area shape="rect" id="node39" href="$RenderParameters_8inl.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.inl" alt="" coords="1763,184,2005,225"/>
+<area shape="rect" id="node40" href="$ShaderProgram_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderProgram.hpp" alt="" coords="1763,273,2005,315"/>
+<area shape="rect" id="node41" href="$ShaderConfiguration_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderConfiguration.hpp" alt="" coords="1553,363,1796,404"/>
+</map>

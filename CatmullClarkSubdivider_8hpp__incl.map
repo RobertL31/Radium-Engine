@@ -1,0 +1,23 @@
+<map id="src/Core/Geometry/CatmullClarkSubdivider.hpp" name="src/Core/Geometry/CatmullClarkSubdivider.hpp">
+<area shape="rect" id="node2" href="$TopologicalMesh_8hpp.html" title="Core/Geometry/Topological\lMesh.hpp" alt="" coords="1608,95,1807,136"/>
+<area shape="rect" id="node3" href="$OpenMesh_8hpp.html" title="Core/Geometry/OpenMesh.hpp" alt="" coords="342,348,564,375"/>
+<area shape="rect" id="node4" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1509,512,1640,539"/>
+<area shape="rect" id="node13" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="643,430,764,457"/>
+<area shape="rect" id="node17" href="$TriangleMesh_8hpp.html" title="Core/Geometry/TriangleMesh.hpp" alt="" coords="1371,191,1610,218"/>
+<area shape="rect" id="node25" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="2356,348,2510,375"/>
+<area shape="rect" id="node46" href="$TopologicalMesh_8inl.html" title="Core/Geometry/Topological\lMesh.inl" alt="" coords="2576,184,2775,225"/>
+<area shape="rect" id="node5" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1494,587,1654,613"/>
+<area shape="rect" id="node18" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="2049,348,2281,375"/>
+<area shape="rect" id="node22" href="$AbstractGeometry_8hpp.html" title="Core/Geometry/AbstractGeometry.hpp" alt="" coords="1207,348,1478,375"/>
+<area shape="rect" id="node23" href="$Attribs_8hpp.html" title="Core/Utils/Attribs.hpp" alt="" coords="1600,273,1762,300"/>
+<area shape="rect" id="node28" href="$Observable_8hpp.html" title="Core/Utils/Observable.hpp" alt="" coords="1833,348,2025,375"/>
+<area shape="rect" id="node35" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="1032,348,1183,375"/>
+<area shape="rect" id="node41" href="$TriangleMesh_8inl.html" title="Core/Geometry/TriangleMesh.inl" alt="" coords="1146,273,1376,300"/>
+<area shape="rect" id="node19" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="2144,423,2344,464"/>
+<area shape="rect" id="node34" href="$Attribs_8inl.html" title="Core/Utils/Attribs.inl" alt="" coords="1604,348,1758,375"/>
+<area shape="rect" id="node27" href="$Index_8inl.html" title="Core/Utils/Index.inl" alt="" coords="2450,430,2597,457"/>
+<area shape="rect" id="node29" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="1978,430,2120,457"/>
+<area shape="rect" id="node36" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1225,430,1377,457"/>
+<area shape="rect" id="node39" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1232,512,1376,539"/>
+<area shape="rect" id="node42" href="$TriangleOperation_8hpp.html" title="Core/Geometry/TriangleOperation.hpp" alt="" coords="740,348,1008,375"/>
+</map>

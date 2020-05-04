@@ -1,0 +1,13 @@
+<map id="src/Core/Asset/AnimationData.hpp" name="src/Core/Asset/AnimationData.hpp">
+<area shape="rect" id="node4" href="$AnimationTime_8hpp.html" title="Core/Animation/Animation\lTime.hpp" alt="" coords="46,244,241,285"/>
+<area shape="rect" id="node13" href="$KeyTransform_8hpp.html" title="Core/Animation/KeyTransform.hpp" alt="" coords="605,95,849,121"/>
+<area shape="rect" id="node16" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1006,333,1137,360"/>
+<area shape="rect" id="node28" href="$AssetData_8hpp.html" title="Core/Asset/AssetData.hpp" alt="" coords="925,169,1116,196"/>
+<area shape="rect" id="node29" href="$AnimationData_8inl.html" title="Core/Asset/AnimationData.inl" alt="" coords="1175,95,1389,121"/>
+<area shape="rect" id="node5" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="974,408,1134,435"/>
+<area shape="rect" id="node14" href="$Interpolation_8hpp.html" title="Core/Animation/Interpolation.hpp" alt="" coords="609,169,848,196"/>
+<area shape="rect" id="node20" href="$KeyFrame_8hpp.html" title="Core/Animation/KeyFrame.hpp" alt="" coords="362,169,581,196"/>
+<area shape="rect" id="node15" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="716,251,837,278"/>
+<area shape="rect" id="node23" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="333,251,597,278"/>
+<area shape="rect" id="node30" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="1195,169,1337,196"/>
+</map>

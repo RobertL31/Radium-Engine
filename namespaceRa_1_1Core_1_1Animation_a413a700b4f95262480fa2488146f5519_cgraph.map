@@ -1,0 +1,23 @@
+<map id="Ra::Core::Animation::computeSTBS_weights" name="Ra::Core::Animation::computeSTBS_weights">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="232,352,384,393"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Geometry.html#aa04e6052d8911b1df1bd881474debb45" title="Ra::Core::Geometry::t" alt="" coords="1115,130,1277,157"/>
+<area shape="rect" id="node19" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a8c7b89d8b68d4b42174bc3e377fdd8fa" title="Ra::Core::Animation\l::Skeleton::getBonePoints" alt="" coords="432,580,621,621"/>
+<area shape="rect" id="node20" href="$namespaceRa_1_1Core_1_1Geometry.html#a749ee9e81862ef200b0b7540cc1f16bc" title="Ra::Core::Geometry\l::projectOnSegment" alt="" coords="233,697,383,739"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Animation.html#a547f9928803752e611f856afca5b613f" title="Remove all the key Poses. " alt="" coords="451,57,603,99"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Animation.html#a60602749517c440955bc88c5ae5d25ee" title="Ra::Core::Animation\l::getPose" alt="" coords="451,123,603,164"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Animation.html#a93d6305ed74ab59961969dce601714c2" title="Ra::Core::Animation\l::operator\&lt;\&lt;" alt="" coords="451,352,603,393"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Animation.html#a7613da42bbde2caf7e0b3ff501a09cfe" title="Ra::Core::Animation\l::getTime" alt="" coords="681,5,833,47"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Animation.html#aa5e2e11d79318fd2777aaa259f8210db" title="Ra::Core::Animation\l::interpolatePoses" alt="" coords="681,123,833,164"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Animation.html#a6951de94ba127cd79685e704d658808b" title="Ra::Core::Animation\l::interpolate" alt="" coords="903,123,1055,164"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Animation_1_1HandleArray.html#a1c75459bc9ff0e1f940b97f55fc18a7e" title="Ra::Core::Animation\l::HandleArray::getLabel" alt="" coords="669,188,844,229"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1AdjacencyList.html#a9bf4ac88fdea50ef9916b641617d4827" title="Return true if a node is a root node. " alt="" coords="669,253,844,295"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1AdjacencyList.html#a5c9f8b77aebc7f3d807c35df4b030727" title="Return true if the node is a joint node. ( |child| == 1 ) " alt="" coords="669,319,844,360"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1AdjacencyList.html#a7cc5e8bee935a36439b9cd62d47e4404" title="Return true if the node is a branch node. ( |child| &gt; 1 ) " alt="" coords="669,384,844,425"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1AdjacencyList.html#a778181dcdae7c7a6a482401c89d75253" title="Return true if the node is a leaf node. " alt="" coords="669,515,844,556"/>
+<area shape="rect" id="node17" href="$classRa_1_1Core_1_1AdjacencyList.html#a45d58d25c05abf04f4f6526ef3ae5a26" title="Ra::Core::AdjacencyList\l::parents" alt="" coords="669,449,844,491"/>
+<area shape="rect" id="node18" href="$classRa_1_1Core_1_1AdjacencyList.html#afb228941d27a01e44071d404e8b58aa4" title="Ra::Core::AdjacencyList\l::children" alt="" coords="669,580,844,621"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Animation_1_1HandleArray.html#a669862596d63a98a032123f739fc989a" title="Ra::Core::Animation\l::HandleArray::size" alt="" coords="903,188,1055,229"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1AdjacencyList.html#a48b78362d882a41b32f0df6aa1d42855" title="Return the number of nodes in the graph. " alt="" coords="892,352,1067,393"/>
+<area shape="rect" id="node21" href="$namespaceRa_1_1Core_1_1Math.html#acc9f6f3b880b60bf0ee7723afabaf180" title="Component&#45;wise clamp() function on a floating&#45;point vector. " alt="" coords="444,701,609,727"/>
+<area shape="rect" id="node22" href="$namespaceOpenMesh.html#a575b338f0fc9ecb5393d23e977e6ac38" title="OpenMesh::dot" alt="" coords="467,751,586,778"/>
+</map>

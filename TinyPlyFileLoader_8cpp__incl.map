@@ -1,0 +1,32 @@
+<map id="src/IO/TinyPlyLoader/TinyPlyFileLoader.cpp" name="src/IO/TinyPlyLoader/TinyPlyFileLoader.cpp">
+<area shape="rect" id="node2" href="$TinyPlyFileLoader_8hpp.html" title="IO/TinyPlyLoader/TinyPly\lFileLoader.hpp" alt="" coords="43,393,227,435"/>
+<area shape="rect" id="node14" href="$FileData_8hpp.html" title="Core/Asset/FileData.hpp" alt="" coords="3143,95,3321,121"/>
+<area shape="rect" id="node3" href="$FileLoaderInterface_8hpp.html" title="Core/Asset/FileLoaderInterface.hpp" alt="" coords="453,490,701,517"/>
+<area shape="rect" id="node13" href="$RaIO_8hpp.html" title="IO/RaIO.hpp" alt="" coords="165,572,264,599"/>
+<area shape="rect" id="node6" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1884,572,2015,599"/>
+<area shape="rect" id="node7" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="2679,647,2839,673"/>
+<area shape="rect" id="node16" href="$FileData_8inl.html" title="Core/Asset/FileData.inl" alt="" coords="3022,169,3191,196"/>
+<area shape="rect" id="node17" href="$AnimationData_8hpp.html" title="Core/Asset/AnimationData.hpp" alt="" coords="1617,244,1839,271"/>
+<area shape="rect" id="node32" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="3731,490,3872,517"/>
+<area shape="rect" id="node35" href="$CameraData_8hpp.html" title="Core/Asset/CameraData.hpp" alt="" coords="2874,319,3081,345"/>
+<area shape="rect" id="node39" href="$GeometryData_8hpp.html" title="Core/Asset/GeometryData.hpp" alt="" coords="910,319,1130,345"/>
+<area shape="rect" id="node43" href="$HandleData_8hpp.html" title="Core/Asset/HandleData.hpp" alt="" coords="1977,319,2178,345"/>
+<area shape="rect" id="node45" href="$LightData_8hpp.html" title="Core/Asset/LightData.hpp" alt="" coords="3492,319,3679,345"/>
+<area shape="rect" id="node48" href="$VolumeData_8hpp.html" title="Core/Asset/VolumeData.hpp" alt="" coords="3877,401,4081,427"/>
+<area shape="rect" id="node18" href="$AnimationTime_8hpp.html" title="Core/Animation/Animation\lTime.hpp" alt="" coords="1157,483,1352,524"/>
+<area shape="rect" id="node21" href="$KeyTransform_8hpp.html" title="Core/Animation/KeyTransform.hpp" alt="" coords="2202,319,2446,345"/>
+<area shape="rect" id="node30" href="$AssetData_8hpp.html" title="Core/Asset/AssetData.hpp" alt="" coords="1854,490,2045,517"/>
+<area shape="rect" id="node31" href="$AnimationData_8inl.html" title="Core/Asset/AnimationData.inl" alt="" coords="3105,319,3319,345"/>
+<area shape="rect" id="node22" href="$Interpolation_8hpp.html" title="Core/Animation/Interpolation.hpp" alt="" coords="2581,401,2819,427"/>
+<area shape="rect" id="node27" href="$KeyFrame_8hpp.html" title="Core/Animation/KeyFrame.hpp" alt="" coords="1968,401,2187,427"/>
+<area shape="rect" id="node23" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="3585,490,3706,517"/>
+<area shape="rect" id="node36" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="1307,401,1539,427"/>
+<area shape="rect" id="node38" href="$CameraData_8inl.html" title="Core/Asset/CameraData.inl" alt="" coords="3097,401,3295,427"/>
+<area shape="rect" id="node37" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="1477,483,1677,524"/>
+<area shape="rect" id="node40" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="877,490,1032,517"/>
+<area shape="rect" id="node41" href="$MaterialData_8hpp.html" title="Core/Asset/MaterialData.hpp" alt="" coords="923,401,1131,427"/>
+<area shape="rect" id="node42" href="$GeometryData_8inl.html" title="Core/Asset/GeometryData.inl" alt="" coords="535,401,747,427"/>
+<area shape="rect" id="node44" href="$HandleData_8inl.html" title="Core/Asset/HandleData.inl" alt="" coords="2363,401,2557,427"/>
+<area shape="rect" id="node46" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="4015,490,4166,517"/>
+<area shape="rect" id="node47" href="$LightData_8inl.html" title="Core/Asset/LightData.inl" alt="" coords="3673,401,3852,427"/>
+</map>

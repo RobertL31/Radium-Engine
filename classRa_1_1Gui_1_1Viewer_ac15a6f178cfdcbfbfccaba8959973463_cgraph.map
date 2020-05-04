@@ -1,0 +1,5 @@
+<map id="Ra::Gui::Viewer::wheelEvent" name="Ra::Gui::Viewer::wheelEvent">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Gui.html#abfd4441bc81a4a3a08a755c28ae9b828" title="return the last, still pressed, key code, &#45;1 if no key currently pressed " alt="" coords="307,5,448,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1KeyMappingManageable.html#a22954323f435085f355701781f846cda" title="Ra::Gui::KeyMappingManageable\l::getContext" alt="" coords="260,57,495,98"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Renderer.html#a1165d48bd1c1d3e77579f326f978d59f" title="Ra::Engine::Renderer\l::setBrushRadius" alt="" coords="299,122,456,163"/>
+</map>

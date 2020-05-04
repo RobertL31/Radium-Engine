@@ -1,0 +1,16 @@
+<map id="src/Engine/Renderer/Light/SpotLight.hpp" name="src/Engine/Renderer/Light/SpotLight.hpp">
+<area shape="rect" id="node2" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="5,273,164,300"/>
+<area shape="rect" id="node9" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1218,273,1370,300"/>
+<area shape="rect" id="node14" href="$Light_8hpp.html" title="Engine/Renderer/Light\l/Light.hpp" alt="" coords="773,95,937,136"/>
+<area shape="rect" id="node28" href="$SpotLight_8inl.html" title="Engine/Renderer/Light\l/SpotLight.inl" alt="" coords="1188,95,1352,136"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="750,423,910,449"/>
+<area shape="rect" id="node10" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="765,348,895,375"/>
+<area shape="rect" id="node13" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1171,348,1315,375"/>
+<area shape="rect" id="node15" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="961,191,1112,218"/>
+<area shape="rect" id="node19" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="497,191,749,218"/>
+<area shape="rect" id="node27" href="$Light_8inl.html" title="Engine/Renderer/Light\l/Light.inl" alt="" coords="773,184,937,225"/>
+<area shape="rect" id="node20" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="189,273,343,300"/>
+<area shape="rect" id="node24" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="773,273,895,300"/>
+<area shape="rect" id="node26" href="$Component_8inl.html" title="Engine/Component/Component.inl" alt="" coords="505,273,749,300"/>
+<area shape="rect" id="node22" href="$Index_8inl.html" title="Core/Utils/Index.inl" alt="" coords="205,348,351,375"/>
+</map>

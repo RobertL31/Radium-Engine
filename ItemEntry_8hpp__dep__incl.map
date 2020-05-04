@@ -1,0 +1,19 @@
+<map id="src/Engine/ItemModel/ItemEntry.hpp" name="src/Engine/ItemModel/ItemEntry.hpp">
+<area shape="rect" id="node2" href="$SignalManager_8hpp.html" title="src/Engine/Managers\l/SignalManager/SignalManager.hpp" alt="" coords="689,95,938,136"/>
+<area shape="rect" id="node9" href="$ItemEntry_8cpp.html" title="src/Engine/ItemModel\l/ItemEntry.cpp" alt="" coords="1339,95,1501,136"/>
+<area shape="rect" id="node10" href="$SelectionManager_8hpp.html" title="src/GuiBase/SelectionManager\l/SelectionManager.hpp" alt="" coords="1429,191,1648,233"/>
+<area shape="rect" id="node12" href="$EntityTreeModel_8hpp.html" title="src/GuiBase/TreeModel\l/EntityTreeModel.hpp" alt="" coords="1577,95,1746,136"/>
+<area shape="rect" id="node14" href="$TransformEditor_8hpp.html" title="src/GuiBase/TransformEditor\l/TransformEditor.hpp" alt="" coords="1866,95,2073,136"/>
+<area shape="rect" id="node3" href="$Component_8cpp.html" title="src/Engine/Component\l/Component.cpp" alt="" coords="5,191,173,233"/>
+<area shape="rect" id="node4" href="$Entity_8cpp.html" title="src/Engine/Entity/Entity.cpp" alt="" coords="198,199,397,225"/>
+<area shape="rect" id="node5" href="$EntityManager_8cpp.html" title="src/Engine/Managers\l/EntityManager/EntityManager.cpp" alt="" coords="421,191,665,233"/>
+<area shape="rect" id="node6" href="$SignalManager_8cpp.html" title="src/Engine/Managers\l/SignalManager/SignalManager.cpp" alt="" coords="689,191,937,233"/>
+<area shape="rect" id="node7" href="$RadiumEngine_8cpp.html" title="src/Engine/RadiumEngine.cpp" alt="" coords="962,199,1177,225"/>
+<area shape="rect" id="node8" href="$RenderObjectManager_8cpp.html" title="src/Engine/Renderer\l/RenderObject/RenderObject\lManager.cpp" alt="" coords="1201,184,1405,240"/>
+<area shape="rect" id="node11" href="$SelectionManager_8cpp.html" title="src/GuiBase/SelectionManager\l/SelectionManager.cpp" alt="" coords="1429,288,1648,329"/>
+<area shape="rect" id="node13" href="$EntityTreeModel_8cpp.html" title="src/GuiBase/TreeModel\l/EntityTreeModel.cpp" alt="" coords="1673,191,1842,233"/>
+<area shape="rect" id="node15" href="$TransformEditor_8cpp.html" title="src/GuiBase/TransformEditor\l/TransformEditor.cpp" alt="" coords="1866,191,2073,233"/>
+<area shape="rect" id="node16" href="$GizmoManager_8hpp.html" title="src/GuiBase/Viewer\l/Gizmo/GizmoManager.hpp" alt="" coords="2097,191,2295,233"/>
+<area shape="rect" id="node17" href="$GizmoManager_8cpp.html" title="src/GuiBase/Viewer\l/Gizmo/GizmoManager.cpp" alt="" coords="1999,288,2195,329"/>
+<area shape="rect" id="node18" href="$Viewer_8cpp.html" title="src/GuiBase/Viewer\l/Viewer.cpp" alt="" coords="2219,288,2367,329"/>
+</map>

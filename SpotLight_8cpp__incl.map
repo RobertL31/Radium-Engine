@@ -1,0 +1,23 @@
+<map id="src/Engine/Renderer/Light/SpotLight.cpp" name="src/Engine/Renderer/Light/SpotLight.cpp">
+<area shape="rect" id="node2" href="$SpotLight_8hpp.html" title="Engine/Renderer/Light\l/SpotLight.hpp" alt="" coords="688,95,852,136"/>
+<area shape="rect" id="node30" href="$RenderParameters_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.hpp" alt="" coords="1597,95,1839,136"/>
+<area shape="rect" id="node3" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1343,452,1501,479"/>
+<area shape="rect" id="node10" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="98,370,250,397"/>
+<area shape="rect" id="node15" href="$Light_8hpp.html" title="Engine/Renderer/Light\l/Light.hpp" alt="" coords="688,184,852,225"/>
+<area shape="rect" id="node29" href="$SpotLight_8inl.html" title="Engine/Renderer/Light\l/SpotLight.inl" alt="" coords="119,184,283,225"/>
+<area shape="rect" id="node4" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1171,527,1331,553"/>
+<area shape="rect" id="node11" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1017,452,1147,479"/>
+<area shape="rect" id="node14" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="93,452,237,479"/>
+<area shape="rect" id="node16" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="359,281,509,307"/>
+<area shape="rect" id="node20" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="760,281,1012,307"/>
+<area shape="rect" id="node28" href="$Light_8inl.html" title="Engine/Renderer/Light\l/Light.inl" alt="" coords="572,273,736,315"/>
+<area shape="rect" id="node21" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="1039,370,1194,397"/>
+<area shape="rect" id="node25" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="893,370,1015,397"/>
+<area shape="rect" id="node27" href="$Component_8inl.html" title="Engine/Component/Component.inl" alt="" coords="573,370,817,397"/>
+<area shape="rect" id="node23" href="$Index_8inl.html" title="Core/Utils/Index.inl" alt="" coords="1171,452,1318,479"/>
+<area shape="rect" id="node32" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="1317,191,1581,218"/>
+<area shape="rect" id="node37" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="1555,370,1697,397"/>
+<area shape="rect" id="node41" href="$RenderParameters_8inl.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.inl" alt="" coords="1781,184,2023,225"/>
+<area shape="rect" id="node42" href="$ShaderProgram_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderProgram.hpp" alt="" coords="1781,273,2023,315"/>
+<area shape="rect" id="node43" href="$ShaderConfiguration_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderConfiguration.hpp" alt="" coords="1974,363,2217,404"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/Core/Utils/Timer.hpp" name="src/Core/Utils/Timer.hpp">
+<area shape="rect" id="node2" href="$Normal_8cpp.html" title="src/Core/Geometry/Normal.cpp" alt="" coords="521,87,744,114"/>
+<area shape="rect" id="node3" href="$TaskQueue_8hpp.html" title="src/Core/Tasks/TaskQueue.hpp" alt="" coords="769,87,987,114"/>
+<area shape="rect" id="node8" href="$FrameTimerData_8hpp.html" title="src/GuiBase/TimerData\l/FrameTimerData.hpp" alt="" coords="1084,169,1256,211"/>
+<area shape="rect" id="node9" href="$BaseApplication_8hpp.html" title="src/GuiBase/BaseApplication.hpp" alt="" coords="1045,266,1281,293"/>
+<area shape="rect" id="node12" href="$Chronometer_8hpp.html" title="src/Core/Utils/Chronometer.hpp" alt="" coords="1623,87,1848,114"/>
+<area shape="rect" id="node13" href="$Renderer_8hpp.html" title="src/Engine/Renderer\l/Renderer.hpp" alt="" coords="1448,80,1599,121"/>
+<area shape="rect" id="node4" href="$TaskQueue_8cpp.html" title="src/Core/Tasks/TaskQueue.cpp" alt="" coords="843,177,1060,203"/>
+<area shape="rect" id="node5" href="$CameraManager_8cpp.html" title="src/Engine/Managers\l/CameraManager/CameraManager.cpp" alt="" coords="5,169,276,211"/>
+<area shape="rect" id="node6" href="$LightManager_8cpp.html" title="src/Engine/Managers\l/LightManager/LightManager.cpp" alt="" coords="301,169,533,211"/>
+<area shape="rect" id="node7" href="$GeometrySystem_8cpp.html" title="src/Engine/System/Geometry\lSystem.cpp" alt="" coords="557,169,767,211"/>
+<area shape="rect" id="node10" href="$BaseApplication_8cpp.html" title="src/GuiBase/BaseApplication.cpp" alt="" coords="1046,348,1281,375"/>
+<area shape="rect" id="node11" href="$FrameTimerData_8cpp.html" title="src/GuiBase/TimerData\l/FrameTimerData.cpp" alt="" coords="849,259,1021,300"/>
+<area shape="rect" id="node14" href="$Renderer_8cpp.html" title="src/Engine/Renderer\l/Renderer.cpp" alt="" coords="2019,169,2169,211"/>
+<area shape="rect" id="node15" href="$ForwardRenderer_8hpp.html" title="src/Engine/Renderer\l/Renderers/ForwardRenderer.hpp" alt="" coords="1331,169,1563,211"/>
+<area shape="rect" id="node17" href="$Viewer_8cpp.html" title="src/GuiBase/Viewer\l/Viewer.cpp" alt="" coords="1560,259,1708,300"/>
+<area shape="rect" id="node18" href="$Viewer_8hpp.html" title="src/GuiBase/Viewer\l/Viewer.hpp" alt="" coords="1847,169,1995,211"/>
+<area shape="rect" id="node20" href="$PickingManager_8hpp.html" title="src/GuiBase/Utils/Picking\lManager.hpp" alt="" coords="1638,169,1822,211"/>
+<area shape="rect" id="node16" href="$ForwardRenderer_8cpp.html" title="src/Engine/Renderer\l/Renderers/ForwardRenderer.cpp" alt="" coords="1305,259,1536,300"/>
+<area shape="rect" id="node19" href="$CameraManipulator_8cpp.html" title="src/GuiBase/Viewer\l/CameraManipulator.cpp" alt="" coords="1992,259,2172,300"/>
+<area shape="rect" id="node21" href="$PickingManager_8cpp.html" title="src/GuiBase/Utils/Picking\lManager.cpp" alt="" coords="1733,259,1917,300"/>
+</map>

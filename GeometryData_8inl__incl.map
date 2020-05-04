@@ -1,0 +1,12 @@
+<map id="src/Core/Asset/GeometryData.inl" name="src/Core/Asset/GeometryData.inl">
+<area shape="rect" id="node2" href="$GeometryData_8hpp.html" title="Core/Asset/GeometryData.hpp" alt="" coords="602,80,822,107"/>
+<area shape="rect" id="node7" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="749,155,981,181"/>
+<area shape="rect" id="node9" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="672,319,803,345"/>
+<area shape="rect" id="node17" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="1176,155,1331,181"/>
+<area shape="rect" id="node20" href="$AssetData_8hpp.html" title="Core/Asset/AssetData.hpp" alt="" coords="158,237,349,263"/>
+<area shape="rect" id="node21" href="$MaterialData_8hpp.html" title="Core/Asset/MaterialData.hpp" alt="" coords="420,155,628,181"/>
+<area shape="rect" id="node8" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="851,229,1051,271"/>
+<area shape="rect" id="node10" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="657,393,817,420"/>
+<area shape="rect" id="node19" href="$Index_8inl.html" title="Core/Utils/Index.inl" alt="" coords="1259,237,1405,263"/>
+<area shape="rect" id="node22" href="$MaterialData_8inl.html" title="Core/Asset/MaterialData.inl" alt="" coords="424,237,624,263"/>
+</map>

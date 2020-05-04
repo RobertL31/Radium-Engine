@@ -1,0 +1,23 @@
+<map id="src/IO/AssimpLoader/AssimpAnimationDataLoader.cpp" name="src/IO/AssimpLoader/AssimpAnimationDataLoader.cpp">
+<area shape="rect" id="node2" href="$AssimpAnimationDataLoader_8hpp.html" title="IO/AssimpLoader/AssimpAnimation\lDataLoader.hpp" alt="" coords="626,95,877,136"/>
+<area shape="rect" id="node19" href="$KeyRotation_8hpp.html" title="Core/Animation/KeyRotation.hpp" alt="" coords="1232,184,1465,211"/>
+<area shape="rect" id="node32" href="$KeyScaling_8hpp.html" title="Core/Animation/KeyScaling.hpp" alt="" coords="1490,184,1717,211"/>
+<area shape="rect" id="node33" href="$KeyTranslation_8hpp.html" title="Core/Animation/KeyTranslation.hpp" alt="" coords="1741,184,1991,211"/>
+<area shape="rect" id="node34" href="$AnimationData_8hpp.html" title="Core/Asset/AnimationData.hpp" alt="" coords="267,102,489,129"/>
+<area shape="rect" id="node39" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="61,259,202,285"/>
+<area shape="rect" id="node42" href="$AssimpWrapper_8hpp.html" title="IO/AssimpLoader/AssimpWrapper.hpp" alt="" coords="2016,184,2281,211"/>
+<area shape="rect" id="node3" href="$AnimationTime_8hpp.html" title="Core/Animation/Animation\lTime.hpp" alt="" coords="639,333,834,375"/>
+<area shape="rect" id="node12" href="$DataLoader_8hpp.html" title="Core/Asset/DataLoader.hpp" alt="" coords="640,184,839,211"/>
+<area shape="rect" id="node15" href="$RaIO_8hpp.html" title="IO/RaIO.hpp" alt="" coords="517,184,615,211"/>
+<area shape="rect" id="node4" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="657,497,817,524"/>
+<area shape="rect" id="node20" href="$Interpolation_8hpp.html" title="Core/Animation/Interpolation.hpp" alt="" coords="1256,259,1495,285"/>
+<area shape="rect" id="node26" href="$KeyFrame_8hpp.html" title="Core/Animation/KeyFrame.hpp" alt="" coords="1013,259,1231,285"/>
+<area shape="rect" id="node21" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="1472,341,1593,367"/>
+<area shape="rect" id="node22" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="774,423,905,449"/>
+<area shape="rect" id="node28" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="1175,341,1439,367"/>
+<area shape="rect" id="node36" href="$KeyTransform_8hpp.html" title="Core/Animation/KeyTransform.hpp" alt="" coords="964,184,1208,211"/>
+<area shape="rect" id="node37" href="$AssetData_8hpp.html" title="Core/Asset/AssetData.hpp" alt="" coords="277,259,468,285"/>
+<area shape="rect" id="node38" href="$AnimationData_8inl.html" title="Core/Asset/AnimationData.inl" alt="" coords="24,184,239,211"/>
+<area shape="rect" id="node48" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="1896,259,2047,285"/>
+<area shape="rect" id="node49" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="999,341,1151,367"/>
+</map>

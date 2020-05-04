@@ -1,0 +1,13 @@
+<map id="src/Engine/Renderer/Material/Material.hpp" name="src/Engine/Renderer/Material/Material.hpp">
+<area shape="rect" id="node2" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="791,452,949,479"/>
+<area shape="rect" id="node11" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="124,370,245,397"/>
+<area shape="rect" id="node16" href="$RenderParameters_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.hpp" alt="" coords="778,95,1021,136"/>
+<area shape="rect" id="node33" href="$Material_8inl.html" title="Engine/Renderer/Material\l/Material.inl" alt="" coords="1631,95,1816,136"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="685,527,845,553"/>
+<area shape="rect" id="node12" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="405,452,535,479"/>
+<area shape="rect" id="node19" href="$AlignedAllocator_8hpp.html" title="Core/Containers/AlignedAllocator.hpp" alt="" coords="369,191,633,218"/>
+<area shape="rect" id="node24" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="595,370,737,397"/>
+<area shape="rect" id="node27" href="$RenderParameters_8inl.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.inl" alt="" coords="1035,184,1278,225"/>
+<area shape="rect" id="node28" href="$ShaderProgram_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderProgram.hpp" alt="" coords="1035,273,1278,315"/>
+<area shape="rect" id="node29" href="$ShaderConfiguration_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderConfiguration.hpp" alt="" coords="1035,363,1278,404"/>
+</map>

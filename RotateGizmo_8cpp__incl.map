@@ -1,0 +1,36 @@
+<map id="src/GuiBase/Viewer/Gizmo/RotateGizmo.cpp" name="src/GuiBase/Viewer/Gizmo/RotateGizmo.cpp">
+<area shape="rect" id="node2" href="$RotateGizmo_8hpp.html" title="GuiBase/Viewer/Gizmo\l/RotateGizmo.hpp" alt="" coords="1137,95,1307,136"/>
+<area shape="rect" id="node10" href="$Color_8hpp.html" title="Core/Utils/Color.hpp" alt="" coords="523,370,673,397"/>
+<area shape="rect" id="node21" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="1626,370,1858,397"/>
+<area shape="rect" id="node24" href="$MeshPrimitives_8hpp.html" title="Core/Geometry/MeshPrimitives.hpp" alt="" coords="773,191,1026,218"/>
+<area shape="rect" id="node29" href="$Camera_8hpp.html" title="Engine/Renderer/Camera\l/Camera.hpp" alt="" coords="264,273,447,315"/>
+<area shape="rect" id="node33" href="$Mesh_8hpp.html" title="Engine/Renderer/Mesh\l/Mesh.hpp" alt="" coords="2752,95,2919,136"/>
+<area shape="rect" id="node44" href="$RenderObject_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObject.hpp" alt="" coords="3973,273,4191,315"/>
+<area shape="rect" id="node48" href="$RenderTechnique_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderTechnique.hpp" alt="" coords="3078,363,3321,404"/>
+<area shape="rect" id="node3" href="$Gizmo_8hpp.html" title="GuiBase/Viewer/Gizmo\l/Gizmo.hpp" alt="" coords="1527,273,1698,315"/>
+<area shape="rect" id="node5" href="$Types_8hpp.html" title="Core/Types.hpp" alt="" coords="1203,459,1324,486"/>
+<area shape="rect" id="node13" href="$Index_8hpp.html" title="Core/Utils/Index.hpp" alt="" coords="1575,459,1730,486"/>
+<area shape="rect" id="node14" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="2638,370,2830,397"/>
+<area shape="rect" id="node19" href="$RenderParameters_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderParameters.hpp" alt="" coords="2169,363,2411,404"/>
+<area shape="rect" id="node6" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1479,541,1610,568"/>
+<area shape="rect" id="node7" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1465,616,1625,643"/>
+<area shape="rect" id="node11" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="387,459,539,486"/>
+<area shape="rect" id="node15" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="2623,541,2781,568"/>
+<area shape="rect" id="node20" href="$Log_8hpp.html" title="Core/Utils/Log.hpp" alt="" coords="2270,459,2411,486"/>
+<area shape="rect" id="node22" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="1855,452,2055,493"/>
+<area shape="rect" id="node25" href="$TriangleMesh_8hpp.html" title="Core/Geometry/TriangleMesh.hpp" alt="" coords="1264,281,1503,307"/>
+<area shape="rect" id="node27" href="$StdOptional_8hpp.html" title="Core/Utils/StdOptional.hpp" alt="" coords="842,281,1037,307"/>
+<area shape="rect" id="node28" href="$MeshPrimitives_8inl.html" title="Core/Geometry/MeshPrimitives.inl" alt="" coords="573,281,818,307"/>
+<area shape="rect" id="node26" href="$AbstractGeometry_8hpp.html" title="Core/Geometry/AbstractGeometry.hpp" alt="" coords="1128,370,1399,397"/>
+<area shape="rect" id="node30" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="749,370,1001,397"/>
+<area shape="rect" id="node31" href="$ViewingParameters_8hpp.html" title="Engine/Renderer/Camera\l/ViewingParameters.hpp" alt="" coords="5,363,188,404"/>
+<area shape="rect" id="node32" href="$Camera_8inl.html" title="Engine/Renderer/Camera\l/Camera.inl" alt="" coords="264,363,447,404"/>
+<area shape="rect" id="node34" href="$DisplayableObject_8hpp.html" title="Engine/Renderer/Displayable\l/DisplayableObject.hpp" alt="" coords="2537,184,2747,225"/>
+<area shape="rect" id="node36" href="$OpenGL_8hpp.html" title="Engine/Renderer/OpenGL\l/OpenGL.hpp" alt="" coords="2873,273,3056,315"/>
+<area shape="rect" id="node37" href="$ShaderProgram_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderProgram.hpp" alt="" coords="3478,363,3721,404"/>
+<area shape="rect" id="node43" href="$Mesh_8inl.html" title="Engine/Renderer/Mesh\l/Mesh.inl" alt="" coords="3232,184,3399,225"/>
+<area shape="rect" id="node38" href="$ShaderConfiguration_8hpp.html" title="Engine/Renderer/RenderTechnique\l/ShaderConfiguration.hpp" alt="" coords="3497,452,3739,493"/>
+<area shape="rect" id="node46" href="$IndexedObject_8hpp.html" title="Core/Utils/IndexedObject.hpp" alt="" coords="1932,370,2144,397"/>
+<area shape="rect" id="node47" href="$RenderObjectTypes_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObjectTypes.hpp" alt="" coords="4003,363,4222,404"/>
+<area shape="rect" id="node50" href="$RenderTechnique_8inl.html" title="Engine/Renderer/RenderTechnique\l/RenderTechnique.inl" alt="" coords="3078,452,3321,493"/>
+</map>

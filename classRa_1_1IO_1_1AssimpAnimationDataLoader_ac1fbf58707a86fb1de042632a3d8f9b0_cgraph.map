@@ -1,0 +1,13 @@
+<map id="Ra::IO::AssimpAnimationDataLoader::fetchAnimation" name="Ra::IO::AssimpAnimationDataLoader::fetchAnimation">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Asset_1_1AnimationData.html#a0905ac7f4d44a97207551fd3af75c0f1" title="Return the AnimationTime linked to the object. " alt="" coords="280,64,476,105"/>
+<area shape="rect" id="node3" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#aee50bf85bf9c74c13fbf1daa386640eb" title="Ra::IO::AssimpAnimationData\lLoader::fetchHandleAnimation" alt="" coords="268,129,488,171"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1Asset_1_1AnimationData.html#ae9d421923883b4a7ef1cdac8134d6e31" title="Return the animation timestep. " alt="" coords="280,195,476,236"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Animation_1_1AnimationTime.html#a36df32bef71eb889b59753012266bf27" title="Ra::Core::Animation\l::AnimationTime::merge" alt="" coords="288,260,468,301"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Asset_1_1AnimationData.html#a0e5c12649e21fc27a09540b23b06cfd4" title="Set the animation frames. " alt="" coords="280,325,476,367"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Asset_1_1AnimationData.html#afa3d60833227971fb049197741da0126" title="Set the AnimationTime for the object. " alt="" coords="280,391,476,432"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1KeyFrame.html#aeca1b8f8c3c59e2f48e79725ec6d6e16" title="RESET. " alt="" coords="571,5,723,47"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Animation_1_1KeyFrame.html#a86175e67c429b471659603f8a2514eef" title="Ra::Core::Animation\l::KeyFrame::insertKeyFrame" alt="" coords="546,71,749,112"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="567,137,727,163"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Animation_1_1KeyFrame.html#af940695555c9d6f064dee70435f33519" title="Ra::Core::Animation\l::KeyFrame::setAnimationTime" alt="" coords="536,188,759,229"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Animation_1_1KeyFrame.html#a8dd187293f7124519b2f6a6153f79711" title="Ra::Core::Animation\l::KeyFrame::at" alt="" coords="571,253,723,295"/>
+</map>
